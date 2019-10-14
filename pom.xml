@@ -43,7 +43,6 @@
         <module>tm</module>
         <module>metrics</module>
         <module>codec</module>
-        <module>sample-tcc</module>
     </modules>
     <packaging>pom</packaging>
 
