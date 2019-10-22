@@ -43,6 +43,9 @@
         <module>tm</module>
         <module>metrics</module>
         <module>codec</module>
+        <module>saga</module>
+        <module>sample-tcc</module>
+
     </modules>
     <packaging>pom</packaging>
 
