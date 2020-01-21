@@ -48,8 +48,6 @@
         <module>compressor</module>
         <module>saga</module>
 
-        <module>sample-tcc</module>
-
 
         <module>sqlparser</module>
 
@@ -477,6 +475,7 @@
                             <failOnViolation>false</failOnViolation>
                             <excludes>**/generated/**/*</excludes>
                             <excludes>io/seata/integration/grpc/interceptor/</excludes>
+                            <skip>true</skip>
                         </configuration>
                         <goals>
                             <goal>check</goal>

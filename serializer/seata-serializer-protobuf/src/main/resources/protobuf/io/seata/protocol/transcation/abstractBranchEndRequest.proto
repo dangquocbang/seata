@@ -32,4 +32,5 @@ message AbstractBranchEndRequestProto {
      * The Application data.
      */
     string applicationData = 6;
+
 }
